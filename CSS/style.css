@@ -1,6 +1,7 @@
 body {
     background-color:#CFF5E7;
   }
+
   hr { 
     border-color: gray;
     border-style: dotted none none;
@@ -16,11 +17,3 @@ h3{
     color: #569DAA;
 }
 
-########
-
-.icon{
-    color: brown;
-}
-.icon:hover{
-    color:rgb(220,23,0);
-}
